@@ -180,9 +180,9 @@ textarea {
 }
 
 @media print,
-  (-webkit-min-device-pixel-ratio: 1.25),
-  (min-resolution: 1.25dppx),
-  (min-resolution: 120dpi) {
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 1.25dppx),
+(min-resolution: 120dpi) {
   /* Style adjustments for high resolution devices */
 }
 
@@ -272,9 +272,7 @@ textarea {
   line-height: 1.4em;
   text-transform: lowercase;
 }
-h2.faq_question {
-  text-rendering: optimizeLegibility;
-}
+
 
 .faq_answer {
   display: block;
@@ -285,9 +283,65 @@ h2.faq_question {
   font-family: sofia-pro;
   font-weight: 400;
   font-style: normal;
-  font-size: 13.2px;
+  font-size: 0.9em;
   letter-spacing: .035em;
   line-height: 1.6em;
   text-transform: lowercase;
-  color: rgba(105,105,105,.7);
+  color: rgba(105, 105, 105, .7);
+}
+
+.faq_question h2 {
+  text-transform: lowercase;
+  text-rendering: optimizeLegibility;
+}
+
+.more_info_button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.5em 0;
+}
+
+.more_info_button a {
+  border-radius: 300px;
+  font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  color: #fff;
+  background-color: #19bfd2;
+  border-color: white;
+  padding: 13px 26px;
+  display: inline-block;
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  height: auto;
+  appearance: none;
+  line-height: normal;
+}
+
+.pen_labels {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  background-color: white;
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  height: 100px;
+  margin-top: 100px;
+  left: 50%;
+}
+
+.pen_labels h2 {
+  text-align: center;
+  white-space: pre-wrap;
+  font-family: sofia-pro;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: grey;
+  text-transform: lowercase;
 }
