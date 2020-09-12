@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8e60364-19c7-445d-9a66-440a78c96f3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thebreezebrand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +14,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1hIzbHnoiNFdt3T4wFhF9zQGN20" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,6 +35,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -56,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599713464204</updated>
-      <workItem from="1599713468586" duration="4119000" />
+      <workItem from="1599713468586" duration="4847000" />
+      <workItem from="1599885967244" duration="5542000" />
     </task>
     <servers />
   </component>
@@ -64,9 +78,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="200" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599891536172">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="200" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1599891536172" />
     <state x="1329" y="-1121" width="782" height="825" key="find.popup" timestamp="1599713982214">
       <screen x="-860" y="-1417" width="3440" height="1417" />
     </state>
     <state x="1329" y="-1121" width="782" height="825" key="find.popup/-860.-1417.3440.1417/0.23.1680.1027@-860.-1417.3440.1417" timestamp="1599713982214" />
+    <state x="82" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1599887707721">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="82" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1599887707721" />
   </component>
 </project>

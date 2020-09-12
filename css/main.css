@@ -345,3 +345,16 @@ textarea {
   color: grey;
   text-transform: lowercase;
 }
+
+body {
+  padding: 1em;
+}
+
+.containerArea {
+  padding: 1em;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+}
